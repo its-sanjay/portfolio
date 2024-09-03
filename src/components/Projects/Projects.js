@@ -84,8 +84,8 @@ function Projects() {
               imgPath={portfolio}
               isBlog={false}
               title="PORTFOLIO"
-              description=" The eCommerce Project is designed to create a fully functional online shopping platform. The project involves building a dynamic and interactive web application that allows users to browse products, add items to their cart, and proceed to checkout. The application will be developed using HTML, CSS, JavaScript, ReactJS, Bootstrap, and will integrate with APIs for product management and payment processing."
-              ghLink="https://github.com/its-sanjay/clothing-app"
+              description=" The Interactive Portfolio Website was developed to showcase my skills and projects in a visually engaging and user-friendly manner. The goal was to create a dynamic, responsive platform that effectively communicates my professional expertise and makes it easy for potential clients or employers to explore my work."
+              ghLink="https://github.com/its-sanjay/portfolio"
                             
             />
           </Col>
